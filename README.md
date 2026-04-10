@@ -1,4 +1,4 @@
-# <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
+
 
 ![Pexelicons Logo](assets/images/Websitescreenshot.png)
 
@@ -19,11 +19,6 @@ Pexelicons is a website that offers custom folder icons for Windows, allowing us
 - [License](#license)
 - [Contact](#contact)
 
-## Getting Started
-
-### Download Icons
-
-Visit the [Pexelicons Website](https://vinodjangid07.github.io/Pexelicons) to download custom folder icons for your PC.
 
 ### How to Use
 
@@ -41,13 +36,8 @@ Follow these steps to apply custom icons to your folders:
 
 If you'd like to contribute to Pexelicons, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-- For inquiries, contact infovinodjangid@gmail.com
 
 ---
 
