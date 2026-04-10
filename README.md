@@ -41,4 +41,4 @@ If you'd like to contribute to Pexelicons, feel free to open an issue or submit 
 
 ---
 
-<p align="center">Design & Built by <a href="https://github.com/vinodjangid07">@Vinodjangid07</a> | &copy; twentytwentyfour</p>
+
